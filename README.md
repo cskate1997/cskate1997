@@ -31,7 +31,7 @@
 ### :man_technologist: About Me:
 I am Roboticist <img src="https://media.giphy.com/media/eK6XrxPKZkKBplU28s/giphy.gif" width="110"> who solves problems you don't know you have in ways you can't understand.
 
-- :telescope: I’m working as a Robotics Engineer and have experience in Perception, Motion Planning and Deep Learning.
+- :telescope: I’m working as a Robotics Engineer and have experience in Perception, Motion Planning, SLAM and Deep Learning.
 
 - :seedling: Eternal Learner .
 
