@@ -35,7 +35,7 @@ I am Roboticist <img src="https://media.giphy.com/media/eK6XrxPKZkKBplU28s/giphy
 
 - :seedling: Eternal Learner .
 
-- :zap: In my free time, I read Meadium articles on AI, Autonomy, Computer vision.
+- :zap: In my free time, I read articles on AI, Autonomy, Computer vision, Localization and Mapping.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Chinmay-LinkedIn-blue)](https://www.linkedin.com/in/chinmay-kate-56b672150/)
 
