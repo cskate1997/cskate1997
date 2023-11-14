@@ -45,7 +45,7 @@ I am Roboticist <img src="https://media.giphy.com/media/eK6XrxPKZkKBplU28s/giphy
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cskate1997&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskate1997&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 ## 💻 Programming Languages:
